@@ -1,9 +1,9 @@
 # HarishDemoApp
 Output of attach program:-
 
-***Case***strength=2 and Outout will be 4---4
+***Case*** strength=2 and Outout will be 4---4
 
-***Case***Casestrength=3 and Outout will be 3---3
+***Case***Case strength=3 and Outout will be 3---3
 
 ***Case***strength=3.itemType=0 and Outout will 3---0
 
